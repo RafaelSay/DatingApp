@@ -2,32 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e22c71f-5b08-4042-83f7-5cca50cd1d5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/_services/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/_services/auth.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/nav/nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/nav/nav.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/register/register.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/app/register/register.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/value/value.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/value/value.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/value/value.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/app/value/value.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatingApp-SPA/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DatingApp-SPA/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp.API.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp.API.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp.API.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp.Api/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingApp.Api/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingApp.Api/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/AuthController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/ValuesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ValuesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DatingApp.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatingApp.Api.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DatingApp.Api.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Migrations/20200318142102_InitialCreate.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Migrations/20200318142102_InitialCreate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +26,27 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logger/LoggerManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/LoggerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Logger/ILoggerManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D809B0C2-DCF2-4DBF-99E5-25683626238B/14/ExceptionHandlerExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Helpers/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Controllers/AuthController.cs" />
         <option value="$PROJECT_DIR$/Helpers/Extensions.cs" />
-        <option value="$PROJECT_DIR$/Startup.cs" />
         <option value="$PROJECT_DIR$/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Logger/ILoggerManager.cs" />
+        <option value="$PROJECT_DIR$/Logger/LoggerManager.cs" />
+        <option value="$PROJECT_DIR$/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/Controllers/LoggerController.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +70,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.DatingApp.Api: DatingApp.API">
     <configuration name="DatingApp.Api: DatingApp.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -118,7 +116,9 @@
       <updated>1584372391302</updated>
       <workItem from="1584372395960" duration="244000" />
       <workItem from="1585147704729" duration="3000" />
-      <workItem from="1585148094934" duration="2476000" />
+      <workItem from="1585148094934" duration="3833000" />
+      <workItem from="1585328794475" duration="11175000" />
+      <workItem from="1586127179940" duration="583000" />
     </task>
     <servers />
   </component>
@@ -132,7 +132,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -143,21 +145,93 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1584372552016" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585150799575">
+    <state width="393" height="466" key="DebuggerActiveHint" timestamp="1585329977290">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585150799575" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585150799575">
+    <state width="393" height="466" key="DebuggerActiveHint/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585329977290" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585420235617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585150799575" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585150799575">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585420235617" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585420235617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585150799575" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585150799575">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585420235617" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585420235617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585150799575" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585420235617" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585420235617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585420235617" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1585336166822">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166822" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.2.bottom" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.2.center" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.2.left" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.2.right" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.3.bottom" timestamp="1585336166824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.3.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166824" />
+    <state width="1557" height="276" key="GridCell.Tab.3.center" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.3.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.3.left" timestamp="1585336166823">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.3.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166823" />
+    <state width="1557" height="276" key="GridCell.Tab.3.right" timestamp="1585336166824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.3.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166824" />
+    <state width="1557" height="276" key="GridCell.Tab.4.bottom" timestamp="1585336166824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.4.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166824" />
+    <state width="1557" height="276" key="GridCell.Tab.4.center" timestamp="1585336166824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.4.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166824" />
+    <state width="1557" height="276" key="GridCell.Tab.4.left" timestamp="1585336166824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.4.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166824" />
+    <state width="1557" height="276" key="GridCell.Tab.4.right" timestamp="1585336166824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.4.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585336166824" />
+    <state x="634" y="130" key="RiderGenerateDialog" timestamp="1585409091170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="130" key="RiderGenerateDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1585409091170" />
   </component>
 </project>
